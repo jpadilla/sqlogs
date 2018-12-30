@@ -4,7 +4,7 @@
   "description": "Quickly send a copy of your `console.log` messages to a SQLite database that you can easily query",
   "main": "sqlogs.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [],
   "author": "Giovanni Collazo",
